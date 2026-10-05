@@ -1,0 +1,1 @@
+Welcome to my bare bones AI project. This Artificial intelligence will remember past prompts and store the correct user selected responses. Using an array of structures that hold a prompt and a 
